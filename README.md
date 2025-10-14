@@ -70,7 +70,7 @@ Artifacts go to:
 - **Best model: GBRT** → R² **0.8792**, RMSE **4330.05**, MAE **2450.58**  
 - vs. baseline: **RMSE ↓ 4.50%**, **MAE ↓ 10.57%**
 
-> Numbers may vary slightly with environment/seed. Update your README with your run.
+
 
 ---
 
@@ -85,4 +85,4 @@ Artifacts go to:
 ---
 
 ## 📜 License
-MIT (or your preferred license)
+MIT 
