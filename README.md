@@ -74,15 +74,5 @@ Artifacts go to:
 
 ---
 
-## 🧰 Implementation Notes
-- No lambdas or `feature_names_out` in `FunctionTransformer` → **pickle-safe** models.
-- RMSE helper is **compatible** with older scikit-learn (no `squared=` required).
-- To scriptify, copy the big training cell into `src/train.py` and run:
-  ```bash
-  python src/train.py
-  ```
-
----
-
 ## 📜 License
 MIT 
