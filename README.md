@@ -72,7 +72,4 @@ Artifacts go to:
 
 
 
----
 
-## 📜 License
-MIT 
